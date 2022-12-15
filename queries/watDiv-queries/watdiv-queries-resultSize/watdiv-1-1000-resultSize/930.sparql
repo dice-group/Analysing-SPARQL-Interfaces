@@ -1,0 +1,15 @@
+PREFIX  og:   <http://ogp.me/ns#>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v5  rdf:type              <http://db.uwaterloo.ca/~galuc/wsdbm/Role1> .
+    ?v1  sdo:editor            ?v5 .
+    ?v5  <http://db.uwaterloo.ca/~galuc/wsdbm/gender>  ?v8 .
+    ?v0  <http://purl.org/goodrelations/includes>  ?v1 .
+    ?v1  og:title              ?v4 ;
+         sdo:expires           ?v7 .
+    ?v0  <http://purl.org/goodrelations/serialNumber>  ?v2 ;
+         <http://purl.org/goodrelations/validFrom>  ?v3
+  }

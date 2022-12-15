@@ -1,0 +1,11 @@
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  rdf:type           <http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory5> ;
+         sdo:contentRating  ?v2 ;
+         sdo:description    ?v3 ;
+         sdo:expires        ?v4 ;
+         sdo:text           ?v5
+  }

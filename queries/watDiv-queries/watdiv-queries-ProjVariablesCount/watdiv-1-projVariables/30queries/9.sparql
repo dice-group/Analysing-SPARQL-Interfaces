@@ -1,0 +1,7 @@
+PREFIX  og:   <http://ogp.me/ns#>
+
+SELECT  *
+WHERE
+  { <http://db.uwaterloo.ca/~galuc/wsdbm/Product8875>
+              og:title  ?v1
+  }

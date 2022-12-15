@@ -1,0 +1,11 @@
+PREFIX  og:   <http://ogp.me/ns#>
+PREFIX  rev:  <http://purl.org/stuff/rev#>
+
+SELECT  *
+WHERE
+  { ?v0  og:tag          <http://db.uwaterloo.ca/~galuc/wsdbm/Topic169> ;
+         rev:hasReview   ?v2 .
+    ?v2  rev:text        ?v3 ;
+         rev:title       ?v4 ;
+         rev:totalVotes  ?v5
+  }

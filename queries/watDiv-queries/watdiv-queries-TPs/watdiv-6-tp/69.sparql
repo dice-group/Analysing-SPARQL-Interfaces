@@ -1,0 +1,11 @@
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  <http://xmlns.com/foaf/age>  <http://db.uwaterloo.ca/~galuc/wsdbm/AgeGroup5> ;
+         <http://xmlns.com/foaf/givenName>  ?v2 ;
+         sdo:email             ?v3 ;
+         sdo:telephone         ?v4 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/subscribes>  ?v5 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/userId>  ?v6
+  }

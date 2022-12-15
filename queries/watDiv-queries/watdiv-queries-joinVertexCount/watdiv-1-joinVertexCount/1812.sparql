@@ -1,0 +1,8 @@
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  sdo:language          <http://db.uwaterloo.ca/~galuc/wsdbm/Language5> ;
+         sdo:producer          ?v2 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/hasGenre>  ?v3
+  }

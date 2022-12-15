@@ -1,0 +1,10 @@
+PREFIX  og:   <http://ogp.me/ns#>
+
+SELECT  *
+WHERE
+  { ?v4  og:tag                <http://db.uwaterloo.ca/~galuc/wsdbm/Topic93> .
+    ?v0  <http://db.uwaterloo.ca/~galuc/wsdbm/likes>  ?v4 ;
+         <http://xmlns.com/foaf/age>  ?v1 ;
+         <http://xmlns.com/foaf/familyName>  ?v2 ;
+         <http://xmlns.com/foaf/homepage>  ?v3
+  }

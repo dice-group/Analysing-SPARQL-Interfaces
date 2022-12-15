@@ -1,0 +1,17 @@
+PREFIX  og:   <http://ogp.me/ns#>
+PREFIX  rev:  <http://purl.org/stuff/rev#>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT  *
+WHERE
+  { ?v0  og:tag                <http://db.uwaterloo.ca/~galuc/wsdbm/Topic50> ;
+         rdf:type              ?v4 .
+    ?v2  <http://db.uwaterloo.ca/~galuc/wsdbm/hasGenre>  ?v0 ;
+         rdf:type              ?v3 ;
+         rev:hasReview         ?v5 .
+    ?v5  rev:rating            ?v6 ;
+         rev:reviewer          ?v7 ;
+         rev:text              ?v8 ;
+         rev:title             ?v9 ;
+         rev:totalVotes        ?v10
+  }

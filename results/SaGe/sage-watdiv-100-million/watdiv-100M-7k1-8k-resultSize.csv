@@ -1,0 +1,62 @@
+query=0
+SPARQL query executed in 25.987s with 145 HTTP requests
+query=1
+SPARQL query executed in 2.09s with 10 HTTP requests
+query=2
+SPARQL query executed in 4.848s with 25 HTTP requests
+query=3
+SPARQL query executed in 25.627s with 143 HTTP requests
+query=4
+SPARQL query executed in 2.532s with 12 HTTP requests
+query=5
+SPARQL query executed in 0.233s with 1 HTTP requests
+query=6
+SPARQL query executed in 25.725s with 145 HTTP requests
+query=7
+SPARQL query executed in 25.598s with 143 HTTP requests
+query=8
+SPARQL query executed in 9.83s with 38 HTTP requests
+query=9
+SPARQL query executed in 2.925s with 15 HTTP requests
+query=10
+SPARQL query executed in 2.215s with 11 HTTP requests
+query=11
+SPARQL query executed in 2.778s with 14 HTTP requests
+query=12
+SPARQL query executed in 3.387s with 18 HTTP requests
+query=13
+SPARQL query executed in 3.25s with 17 HTTP requests
+query=14
+SPARQL query executed in 1.269s with 10 HTTP requests
+query=15
+SPARQL query executed in 0.214s with 1 HTTP requests
+query=16
+SPARQL query executed in 16.696s with 94 HTTP requests
+query=17
+SPARQL query executed in 0.896s with 5 HTTP requests
+query=18
+SPARQL query executed in 12.474s with 69 HTTP requests
+query=19
+SPARQL query executed in 0.2s with 1 HTTP requests
+query=20
+SPARQL query executed in 1.155s with 9 HTTP requests
+query=21
+SPARQL query executed in 2.456s with 12 HTTP requests
+query=22
+SPARQL query executed in 0.211s with 1 HTTP requests
+query=23
+SPARQL query executed in 3.2s with 16 HTTP requests
+query=24
+SPARQL query executed in 25.701s with 145 HTTP requests
+query=25
+SPARQL query executed in 4.133s with 21 HTTP requests
+query=26
+SPARQL query executed in 0.197s with 1 HTTP requests
+query=27
+SPARQL query executed in 0.653s with 3 HTTP requests
+query=28
+SPARQL query executed in 4.831s with 25 HTTP requests
+query=29
+SPARQL query executed in 2.219s with 18 HTTP requests
+query=30
+SPARQL query executed in 2.7s with 13 HTTP requests

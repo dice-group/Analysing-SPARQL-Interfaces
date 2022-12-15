@@ -1,0 +1,15 @@
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v2  sdo:eligibleRegion    <http://db.uwaterloo.ca/~galuc/wsdbm/Country17> ;
+         <http://purl.org/goodrelations/includes>  ?v3 .
+    ?v0  <http://purl.org/goodrelations/offers>  ?v2 .
+    ?v2  <http://purl.org/goodrelations/validThrough>  ?v4 ;
+         sdo:eligibleQuantity  ?v6 ;
+         sdo:priceValidUntil   ?v9 .
+    ?v0  <http://purl.org/goodrelations/description>  ?v1 ;
+         sdo:aggregateRating   ?v5 ;
+         sdo:faxNumber         ?v8 ;
+         sdo:telephone         ?v10
+  }

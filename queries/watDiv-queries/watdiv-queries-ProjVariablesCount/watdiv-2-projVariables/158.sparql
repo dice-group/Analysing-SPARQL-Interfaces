@@ -1,0 +1,7 @@
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  <http://purl.org/goodrelations/offers>  <http://db.uwaterloo.ca/~galuc/wsdbm/Offer50118> ;
+         sdo:telephone         ?v2
+  }

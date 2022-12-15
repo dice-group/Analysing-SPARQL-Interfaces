@@ -1,0 +1,10 @@
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  <http://db.uwaterloo.ca/~galuc/wsdbm/likes>  <http://db.uwaterloo.ca/~galuc/wsdbm/Product18383> ;
+         <http://xmlns.com/foaf/familyName>  ?v1 ;
+         sdo:email             ?v2 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/gender>  ?v3 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/makesPurchase>  ?v5
+  }

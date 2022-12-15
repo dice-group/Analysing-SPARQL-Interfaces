@@ -1,0 +1,8 @@
+PREFIX  terms: <http://purl.org/dc/terms/>
+
+SELECT  *
+WHERE
+  { ?v0  terms:Location        <http://db.uwaterloo.ca/~galuc/wsdbm/City234> ;
+         <http://xmlns.com/foaf/homepage>  ?v2 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/userId>  ?v3
+  }

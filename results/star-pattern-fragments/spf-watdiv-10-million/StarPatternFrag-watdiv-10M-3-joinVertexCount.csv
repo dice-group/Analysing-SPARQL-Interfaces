@@ -1,0 +1,180 @@
+Number of output bindings: 54
+Runtime: PT0.349S
+No. of Server requests = 4
+No. of transfer bytes = 101338
+Response time = 349
+query=> 0
+Number of output bindings: 0
+Runtime: PT0.408S
+No. of Server requests = 6
+No. of transfer bytes = 125051
+Response time = 0
+query=> 1
+Number of output bindings: 0
+Runtime: PT0.355S
+No. of Server requests = 4
+No. of transfer bytes = 54872
+Response time = 0
+query=> 2
+Number of output bindings: 669
+Runtime: PT0.524S
+No. of Server requests = 16
+No. of transfer bytes = 356420
+Response time = 466
+query=> 3
+Number of output bindings: 1088
+Runtime: PT0.598S
+No. of Server requests = 15
+No. of transfer bytes = 728238
+Response time = 376
+query=> 4
+Number of output bindings: 0
+Runtime: PT0.371S
+No. of Server requests = 6
+No. of transfer bytes = 121708
+Response time = 0
+query=> 5
+Number of output bindings: 18
+Runtime: PT0.407S
+No. of Server requests = 3
+No. of transfer bytes = 52337
+Response time = 406
+query=> 6
+Number of output bindings: 0
+Runtime: PT0.334S
+No. of Server requests = 4
+No. of transfer bytes = 54862
+Response time = 0
+query=> 7
+Number of output bindings: 36
+Runtime: PT0.354S
+No. of Server requests = 3
+No. of transfer bytes = 58767
+Response time = 352
+query=> 8
+Number of output bindings: 0
+Runtime: PT0.34S
+No. of Server requests = 3
+No. of transfer bytes = 79834
+Response time = 0
+query=> 9
+Number of output bindings: 13
+Runtime: PT0.388S
+No. of Server requests = 13
+No. of transfer bytes = 209695
+Response time = 382
+query=> 10
+Number of output bindings: 512
+Runtime: PT0.594S
+No. of Server requests = 10
+No. of transfer bytes = 234132
+Response time = 539
+query=> 11
+Number of output bindings: 0
+Runtime: PT0.537S
+No. of Server requests = 4
+No. of transfer bytes = 54857
+Response time = 0
+query=> 12
+Number of output bindings: 330
+Runtime: PT0.59S
+No. of Server requests = 6
+No. of transfer bytes = 149258
+Response time = 518
+query=> 13
+Number of output bindings: 174
+Runtime: PT0.423S
+No. of Server requests = 7
+No. of transfer bytes = 126662
+Response time = 410
+query=> 14
+Number of output bindings: 6984
+Runtime: PT1.226S
+No. of Server requests = 74
+No. of transfer bytes = 2424148
+Response time = 562
+query=> 15
+Number of output bindings: 0
+Runtime: PT0.386S
+No. of Server requests = 5
+No. of transfer bytes = 117115
+Response time = 0
+query=> 16
+Number of output bindings: 47
+Runtime: PT0.354S
+No. of Server requests = 4
+No. of transfer bytes = 100056
+Response time = 353
+query=> 17
+Number of output bindings: 495
+Runtime: PT0.432S
+No. of Server requests = 13
+No. of transfer bytes = 263587
+Response time = 386
+query=> 18
+Number of output bindings: 1400
+Runtime: PT0.487S
+No. of Server requests = 17
+No. of transfer bytes = 545875
+Response time = 330
+query=> 19
+Number of output bindings: 0
+Runtime: PT0.322S
+No. of Server requests = 4
+No. of transfer bytes = 54872
+Response time = 0
+query=> 20
+Number of output bindings: 0
+Runtime: PT0.56S
+No. of Server requests = 6
+No. of transfer bytes = 122163
+Response time = 0
+query=> 21
+Number of output bindings: 2853
+Runtime: PT0.708S
+No. of Server requests = 35
+No. of transfer bytes = 1382915
+Response time = 414
+query=> 22
+Number of output bindings: 0
+Runtime: PT0.346S
+No. of Server requests = 6
+No. of transfer bytes = 122548
+Response time = 0
+query=> 23
+Number of output bindings: 307
+Runtime: PT0.383S
+No. of Server requests = 9
+No. of transfer bytes = 191380
+Response time = 352
+query=> 24
+Number of output bindings: 704
+Runtime: PT0.457S
+No. of Server requests = 16
+No. of transfer bytes = 358756
+Response time = 402
+query=> 25
+Number of output bindings: 0
+Runtime: PT0.477S
+No. of Server requests = 3
+No. of transfer bytes = 54553
+Response time = 0
+query=> 26
+Number of output bindings: 49
+Runtime: PT0.344S
+No. of Server requests = 3
+No. of transfer bytes = 64347
+Response time = 342
+query=> 27
+Number of output bindings: 0
+Runtime: PT0.65S
+No. of Server requests = 3
+No. of transfer bytes = 79834
+Response time = 0
+query=> 28
+Number of output bindings: 2325
+Runtime: PT0.623S
+No. of Server requests = 29
+No. of transfer bytes = 1147472
+Response time = 388
+query=> 29

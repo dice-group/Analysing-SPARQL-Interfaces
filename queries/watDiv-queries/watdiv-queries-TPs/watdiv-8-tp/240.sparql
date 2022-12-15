@@ -1,0 +1,14 @@
+PREFIX  og:   <http://ogp.me/ns#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v1  og:tag                <http://db.uwaterloo.ca/~galuc/wsdbm/Topic33> .
+    ?v0  <http://purl.org/goodrelations/includes>  ?v1 .
+    ?v1  sdo:description       ?v6 .
+    ?v0  <http://purl.org/goodrelations/serialNumber>  ?v2 ;
+         <http://purl.org/goodrelations/validFrom>  ?v3 ;
+         <http://purl.org/goodrelations/validThrough>  ?v4 ;
+         sdo:eligibleQuantity  ?v7 ;
+         sdo:eligibleRegion    ?v8
+  }

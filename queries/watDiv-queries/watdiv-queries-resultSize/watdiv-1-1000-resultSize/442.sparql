@@ -1,0 +1,5 @@
+SELECT  *
+WHERE
+  { ?v0  <http://db.uwaterloo.ca/~galuc/wsdbm/subscribes>  <http://db.uwaterloo.ca/~galuc/wsdbm/Website2050> ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/userId>  ?v2
+  }

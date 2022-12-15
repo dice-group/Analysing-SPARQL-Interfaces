@@ -1,0 +1,16 @@
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { <http://db.uwaterloo.ca/~galuc/wsdbm/Purchase121156>
+              <http://db.uwaterloo.ca/~galuc/wsdbm/purchaseFor>  ?v1 .
+    ?v0       <http://purl.org/goodrelations/includes>  ?v1 .
+    ?v1       sdo:keywords          ?v7 ;
+              sdo:text              ?v8 .
+    ?v3       <http://db.uwaterloo.ca/~galuc/wsdbm/likes>  ?v1 .
+    ?v0       <http://purl.org/goodrelations/serialNumber>  ?v2 ;
+              sdo:eligibleQuantity  ?v5 ;
+              sdo:eligibleRegion    ?v6 .
+    ?v3       rdf:type              ?v4
+  }

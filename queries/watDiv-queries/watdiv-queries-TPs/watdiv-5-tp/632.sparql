@@ -1,0 +1,10 @@
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  sdo:nationality       <http://db.uwaterloo.ca/~galuc/wsdbm/Country8> ;
+         <http://xmlns.com/foaf/familyName>  ?v1 ;
+         sdo:birthDate         ?v2 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/gender>  ?v4 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/likes>  ?v5
+  }

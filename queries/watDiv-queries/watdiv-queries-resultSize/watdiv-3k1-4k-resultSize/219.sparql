@@ -1,0 +1,10 @@
+PREFIX  og:   <http://ogp.me/ns#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { <http://db.uwaterloo.ca/~galuc/wsdbm/SubGenre2>
+              og:tag           ?v1 .
+    ?v0       og:tag           ?v1 ;
+              sdo:description  ?v3
+  }

@@ -1,0 +1,11 @@
+PREFIX  rev:  <http://purl.org/stuff/rev#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v2  sdo:nationality  <http://db.uwaterloo.ca/~galuc/wsdbm/Country9> .
+    ?v1  rev:reviewer     ?v2 .
+    ?v2  sdo:email        ?v4 .
+    ?v0  rev:hasReview    ?v1 .
+    ?v1  rev:totalVotes   ?v3
+  }

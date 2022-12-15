@@ -1,0 +1,100 @@
+Number of output bindings: 55
+Runtime: PT0.833S
+No. of Server requests = 84
+No. of transfer bytes = 1884626
+Response time = 549
+query=> 0
+Number of output bindings: 46
+Runtime: PT0.764S
+No. of Server requests = 75
+No. of transfer bytes = 1711123
+Response time = 446
+query=> 1
+Number of output bindings: 10
+Runtime: PT0.523S
+No. of Server requests = 30
+No. of transfer bytes = 703431
+Response time = 453
+query=> 2
+Number of output bindings: 47
+Runtime: PT0.875S
+No. of Server requests = 92
+No. of transfer bytes = 1953995
+Response time = 460
+query=> 3
+Number of output bindings: 45
+Runtime: PT0.644S
+No. of Server requests = 58
+No. of transfer bytes = 1246713
+Response time = 450
+query=> 4
+Number of output bindings: 19
+Runtime: PT0.677S
+No. of Server requests = 52
+No. of transfer bytes = 1270925
+Response time = 496
+query=> 5
+Number of output bindings: 39
+Runtime: PT0.664S
+No. of Server requests = 48
+No. of transfer bytes = 1066452
+Response time = 520
+query=> 6
+Number of output bindings: 21
+Runtime: PT0.806S
+No. of Server requests = 53
+No. of transfer bytes = 1236679
+Response time = 549
+query=> 7
+Number of output bindings: 52
+Runtime: PT0.89S
+No. of Server requests = 73
+No. of transfer bytes = 1594752
+Response time = 530
+query=> 8
+Number of output bindings: 29
+Runtime: PT0.895S
+No. of Server requests = 50
+No. of transfer bytes = 1115795
+Response time = 696
+query=> 9
+Number of output bindings: 46
+Runtime: PT1.385S
+No. of Server requests = 66
+No. of transfer bytes = 1396928
+Response time = 824
+query=> 10
+Number of output bindings: 34
+Runtime: PT1.308S
+No. of Server requests = 62
+No. of transfer bytes = 1405461
+Response time = 868
+query=> 11
+Number of output bindings: 36
+Runtime: PT0.91S
+No. of Server requests = 71
+No. of transfer bytes = 1601947
+Response time = 600
+query=> 12
+Number of output bindings: 51
+Runtime: PT0.931S
+No. of Server requests = 102
+No. of transfer bytes = 2257789
+Response time = 470
+query=> 13
+query=> 14
+query=> 15
+query=> 16
+query=> 17
+query=> 18
+query=> 19
+query=> 20
+query=> 21
+query=> 22
+query=> 23
+query=> 24
+query=> 25
+query=> 26
+query=> 27
+query=> 28
+query=> 29

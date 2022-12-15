@@ -1,0 +1,64 @@
+query=0
+SPARQL query executed in 902.205s with 10,858 HTTP requests
+query=1
+query=0
+SPARQL query executed in 917.525s with 11,028 HTTP requests
+query=1
+SPARQL query executed in 873.175s with 10,588 HTTP requests
+query=2
+SPARQL query executed in 385.318s with 4,788 HTTP requests
+query=3
+SPARQL query executed in 808.06s with 9,759 HTTP requests
+query=4
+SPARQL query executed in 855.921s with 10,351 HTTP requests
+query=5
+SPARQL query executed in 843.088s with 10,231 HTTP requests
+query=6
+SPARQL query executed in 796.715s with 9,657 HTTP requests
+query=7
+SPARQL query executed in 898.759s with 10,817 HTTP requests
+query=8
+SPARQL query executed in 901.134s with 10,849 HTTP requests
+query=9
+SPARQL query executed in 829.802s with 10,011 HTTP requests
+query=10
+SPARQL query executed in 769.691s with 9,330 HTTP requests
+query=11
+SPARQL query executed in 843.712s with 10,198 HTTP requests
+query=12
+query=0
+SPARQL query executed in 1.082s with 8 HTTP requests
+query=1
+SPARQL query executed in 3.096s with 30 HTTP requests
+query=2
+SPARQL query executed in 6.986s with 64 HTTP requests
+query=3
+SPARQL query executed in 1.24s with 8 HTTP requests
+query=4
+SPARQL query executed in 6.036s with 57 HTTP requests
+query=5
+SPARQL query executed in 7.145s with 71 HTTP requests
+query=6
+SPARQL query executed in 1.545s with 13 HTTP requests
+query=7
+SPARQL query executed in 5.952s with 55 HTTP requests
+query=8
+SPARQL query executed in 3.66s with 32 HTTP requests
+query=9
+SPARQL query executed in 5.75s with 52 HTTP requests
+query=10
+SPARQL query executed in 6.603s with 51 HTTP requests
+query=11
+SPARQL query executed in 5.763s with 50 HTTP requests
+query=12
+SPARQL query executed in 3.809s with 36 HTTP requests
+query=13
+SPARQL query executed in 4.625s with 40 HTTP requests
+query=14
+SPARQL query executed in 3.501s with 31 HTTP requests
+query=15
+SPARQL query executed in 9.504s with 86 HTTP requests
+query=16
+SPARQL query executed in 2.195s with 17 HTTP requests
+query=17
+SPARQL query executed in 6.757s with 66 HTTP requests

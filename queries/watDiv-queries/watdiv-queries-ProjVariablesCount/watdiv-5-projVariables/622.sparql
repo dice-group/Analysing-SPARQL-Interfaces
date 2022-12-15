@@ -1,0 +1,12 @@
+PREFIX  gn:   <http://www.geonames.org/ontology#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { <http://db.uwaterloo.ca/~galuc/wsdbm/Offer10900>
+              sdo:eligibleRegion    ?v1 .
+    ?v0       gn:parentCountry      ?v1 .
+    ?v3       sdo:nationality       ?v1 ;
+              sdo:jobTitle          ?v4 ;
+              <http://db.uwaterloo.ca/~galuc/wsdbm/gender>  ?v5
+  }

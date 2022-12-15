@@ -1,0 +1,16 @@
+PREFIX  rev:  <http://purl.org/stuff/rev#>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v1  rdf:type              <http://db.uwaterloo.ca/~galuc/wsdbm/ProductCategory13> .
+    ?v0  <http://purl.org/goodrelations/includes>  ?v1 .
+    ?v1  rev:hasReview         ?v3 ;
+         sdo:contentSize       ?v9 .
+    ?v3  rev:rating            ?v4 ;
+         rev:reviewer          ?v5 ;
+         rev:text              ?v6 ;
+         rev:title             ?v7 ;
+         rev:totalVotes        ?v8
+  }

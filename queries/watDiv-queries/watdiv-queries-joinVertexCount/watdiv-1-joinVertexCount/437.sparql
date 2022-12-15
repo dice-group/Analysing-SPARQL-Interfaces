@@ -1,0 +1,9 @@
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  <http://purl.org/goodrelations/includes>  <http://db.uwaterloo.ca/~galuc/wsdbm/Product20630> ;
+         <http://purl.org/goodrelations/price>  ?v2 ;
+         sdo:eligibleQuantity  ?v3 ;
+         sdo:priceValidUntil   ?v4
+  }

@@ -1,0 +1,9 @@
+PREFIX  terms: <http://purl.org/dc/terms/>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  terms:Location        <http://db.uwaterloo.ca/~galuc/wsdbm/City239> ;
+         <http://xmlns.com/foaf/age>  ?v2 ;
+         sdo:birthDate         ?v3
+  }

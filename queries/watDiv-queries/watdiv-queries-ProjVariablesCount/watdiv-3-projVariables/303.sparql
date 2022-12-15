@@ -1,0 +1,9 @@
+PREFIX  og:   <http://ogp.me/ns#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  <http://xmlns.com/foaf/homepage>  <http://db.uwaterloo.ca/~galuc/wsdbm/Website4005> ;
+         og:title              ?v2 ;
+         sdo:contentRating     ?v3
+  }

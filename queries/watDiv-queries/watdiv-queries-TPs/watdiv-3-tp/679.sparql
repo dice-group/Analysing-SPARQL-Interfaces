@@ -1,0 +1,9 @@
+PREFIX  rev:  <http://purl.org/stuff/rev#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  sdo:language   <http://db.uwaterloo.ca/~galuc/wsdbm/Language30> ;
+         rev:hasReview  ?v1 .
+    ?v1  rev:title      ?v2
+  }

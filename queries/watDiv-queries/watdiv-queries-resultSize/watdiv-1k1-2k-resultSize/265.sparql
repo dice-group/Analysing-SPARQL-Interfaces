@@ -1,0 +1,14 @@
+PREFIX  og:   <http://ogp.me/ns#>
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  rdf:type              <http://db.uwaterloo.ca/~galuc/wsdbm/Genre5> ;
+         og:tag                ?v1 .
+    ?v2  <http://db.uwaterloo.ca/~galuc/wsdbm/hasGenre>  ?v0 ;
+         rdf:type              ?v3 ;
+         sdo:caption           ?v5 ;
+         sdo:contentRating     ?v6 ;
+         sdo:keywords          ?v7
+  }

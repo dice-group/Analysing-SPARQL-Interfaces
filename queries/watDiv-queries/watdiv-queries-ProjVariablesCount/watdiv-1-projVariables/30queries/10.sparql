@@ -1,0 +1,5 @@
+SELECT  *
+WHERE
+  { <http://db.uwaterloo.ca/~galuc/wsdbm/User27772>
+              <http://xmlns.com/foaf/age>  ?v1
+  }

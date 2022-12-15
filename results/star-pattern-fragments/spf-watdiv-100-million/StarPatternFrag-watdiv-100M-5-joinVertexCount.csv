@@ -1,0 +1,84 @@
+Number of output bindings: 408
+Runtime: PT3.563S
+No. of Server requests = 686
+No. of transfer bytes = 15170883
+Response time = 595
+query=> 0
+Number of output bindings: 441
+Runtime: PT3.903S
+No. of Server requests = 732
+No. of transfer bytes = 16101411
+Response time = 472
+query=> 1
+Number of output bindings: 180
+Runtime: PT1.904S
+No. of Server requests = 333
+No. of transfer bytes = 7436251
+Response time = 549
+query=> 2
+Number of output bindings: 519
+Runtime: PT3.201S
+No. of Server requests = 666
+No. of transfer bytes = 14495204
+Response time = 483
+query=> 3
+Number of output bindings: 501
+Runtime: PT3.291S
+No. of Server requests = 690
+No. of transfer bytes = 15224471
+Response time = 462
+query=> 4
+Number of output bindings: 436
+Runtime: PT3.587S
+No. of Server requests = 678
+No. of transfer bytes = 15333157
+Response time = 433
+query=> 5
+Number of output bindings: 414
+Runtime: PT3.061S
+No. of Server requests = 663
+No. of transfer bytes = 14504590
+Response time = 512
+query=> 6
+Number of output bindings: 378
+Runtime: PT3.155S
+No. of Server requests = 666
+No. of transfer bytes = 14922879
+Response time = 483
+query=> 7
+Number of output bindings: 503
+Runtime: PT3.198S
+No. of Server requests = 681
+No. of transfer bytes = 15227177
+Response time = 495
+query=> 8
+Number of output bindings: 524
+Runtime: PT3.061S
+No. of Server requests = 677
+No. of transfer bytes = 14787853
+Response time = 529
+query=> 9
+Number of output bindings: 425
+Runtime: PT3.056S
+No. of Server requests = 630
+No. of transfer bytes = 13903792
+Response time = 503
+query=> 10
+Number of output bindings: 483
+Runtime: PT2.998S
+No. of Server requests = 670
+No. of transfer bytes = 14531578
+Response time = 437
+query=> 11
+Number of output bindings: 510
+Runtime: PT3.138S
+No. of Server requests = 688
+No. of transfer bytes = 15205001
+Response time = 456
+query=> 12
+Number of output bindings: 648
+Runtime: PT4.344S
+No. of Server requests = 1051
+No. of transfer bytes = 23278565
+Response time = 479
+query=> 13

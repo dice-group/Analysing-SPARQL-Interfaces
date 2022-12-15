@@ -1,0 +1,10 @@
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v2  <http://db.uwaterloo.ca/~galuc/wsdbm/gender>  <http://db.uwaterloo.ca/~galuc/wsdbm/Gender1> ;
+         sdo:jobTitle          ?v3 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/makesPurchase>  ?v0 .
+    ?v0  <http://purl.org/goodrelations/price>  ?v1 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/purchaseDate>  ?v5
+  }

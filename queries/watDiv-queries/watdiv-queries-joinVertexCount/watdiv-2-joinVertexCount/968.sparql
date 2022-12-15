@@ -1,0 +1,12 @@
+PREFIX  og:   <http://ogp.me/ns#>
+PREFIX  terms: <http://purl.org/dc/terms/>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  terms:Location        <http://db.uwaterloo.ca/~galuc/wsdbm/City174> ;
+         <http://xmlns.com/foaf/age>  ?v2 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/likes>  ?v3 .
+    ?v3  og:title              ?v4 ;
+         sdo:keywords          ?v5
+  }

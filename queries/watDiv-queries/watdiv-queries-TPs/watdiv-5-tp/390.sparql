@@ -1,0 +1,11 @@
+PREFIX  og:   <http://ogp.me/ns#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  og:tag             <http://db.uwaterloo.ca/~galuc/wsdbm/Topic149> ;
+         sdo:contentRating  ?v2 ;
+         sdo:contentSize    ?v3 ;
+         sdo:description    ?v4 ;
+         sdo:text           ?v5
+  }

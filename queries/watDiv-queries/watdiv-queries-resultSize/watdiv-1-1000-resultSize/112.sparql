@@ -1,0 +1,8 @@
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v0  <http://db.uwaterloo.ca/~galuc/wsdbm/likes>  <http://db.uwaterloo.ca/~galuc/wsdbm/Product23074> ;
+         sdo:nationality       ?v1 ;
+         <http://db.uwaterloo.ca/~galuc/wsdbm/gender>  ?v2
+  }

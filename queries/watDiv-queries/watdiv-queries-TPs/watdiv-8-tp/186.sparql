@@ -1,0 +1,14 @@
+PREFIX  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { ?v3  rdf:type              <http://db.uwaterloo.ca/~galuc/wsdbm/Genre19> .
+    ?v0  <http://db.uwaterloo.ca/~galuc/wsdbm/hasGenre>  ?v3 ;
+         <http://xmlns.com/foaf/homepage>  ?v1 .
+    ?v2  <http://purl.org/goodrelations/includes>  ?v0 .
+    ?v0  sdo:caption           ?v5 ;
+         sdo:contentRating     ?v6 ;
+         sdo:text              ?v7 .
+    ?v8  <http://db.uwaterloo.ca/~galuc/wsdbm/likes>  ?v0
+  }

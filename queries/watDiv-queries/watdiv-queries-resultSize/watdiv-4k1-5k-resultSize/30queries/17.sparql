@@ -1,0 +1,13 @@
+PREFIX  terms: <http://purl.org/dc/terms/>
+PREFIX  gn:   <http://www.geonames.org/ontology#>
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { <http://db.uwaterloo.ca/~galuc/wsdbm/User40329>
+              terms:Location        ?v1 .
+    ?v1       gn:parentCountry      ?v2 .
+    ?v3       sdo:eligibleRegion    ?v2 ;
+              sdo:eligibleQuantity  ?v4 ;
+              sdo:priceValidUntil   ?v5
+  }

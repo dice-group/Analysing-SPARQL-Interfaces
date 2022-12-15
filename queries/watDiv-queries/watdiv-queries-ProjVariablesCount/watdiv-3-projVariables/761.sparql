@@ -1,0 +1,9 @@
+PREFIX  sdo:  <http://schema.org/>
+
+SELECT  *
+WHERE
+  { <http://db.uwaterloo.ca/~galuc/wsdbm/User2459>
+              sdo:nationality       ?v2 .
+    ?v0       sdo:eligibleRegion    ?v2 ;
+              sdo:eligibleQuantity  ?v1
+  }
