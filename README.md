@@ -21,4 +21,11 @@ To address the recent challenge of online availability issues faced by public SP
 | 2          | No. of Join Vertices (JV)                       | Query 2                  |
 | 3          | No. of Triple Patterns (TP)                     | Query 3                  |
 | 4          | Result Set Size (RS)                            | Query 4                  |
-|
+
+**Details about the datasets structure.**
+
+| Dataset Type | Benchmark/Dataset   | # Triples    | # Subjects | # Predicates | # Objects   |
+|--------------|----------------------|--------------|------------|--------------|-------------|
+| Synthetic    | WatDiv-10-Million    | 10,916,457   | 521,585    | 86           | 1,005,832   |
+|              | WatDiv-100-Million   | 108,997,714  | 5,212,385  | 86           | 9,753,266   |
+
