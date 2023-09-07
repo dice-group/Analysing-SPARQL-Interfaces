@@ -11,4 +11,14 @@ To address the recent challenge of online availability issues faced by public SP
 | 3          | Web Preemption for Public SPARQL Query Services [SaGe](https://sage.univ-nantes.fr/) | [Client](https://github.com/sage-org/sage-jena) [Server](https://github.com/sage-org/sage-engine)
 | 4          | Star Pattern Fragments [SPF](https://arxiv.org/abs/2002.09172)         | [Client](https://github.com/Chraebe/StarPatternFragments/tree/master/SPF.Client) [Server](https://github.com/Chraebe/StarPatternFragments/tree/master/SPF.Server)                         |
 | 5          | Hybrid Shipping for SPARQL Querying on the Web [Smart-KG](https://publikationen.bibliothek.kit.edu/1000122092)     | [Client](https://git.ai.wu.ac.at/beno/smartkg/-/tree/master/smartkg-client?ref_type=heads) [Server](https://git.ai.wu.ac.at/beno/smartkg/-/tree/master/smartkg-server?ref_type=heads)               |
-| 6          | Balanced Access to Web Knowledge Graphs [Wise-KG](https://dl.acm.org/doi/10.1145/3442381.3449911) | [Client](https://github.com/WiseKG/WiseKG-Java/tree/main/WiseKG.Client) [Server](https://github.com/WiseKG/WiseKG-Java/tree/main/WiseKG.Server)                       |
+| 6          | Balanced Access to Web Knowledge Graphs [Wise-KG](https://dl.acm.org/doi/10.1145/3442381.3449911) | [Client](https://github.com/WiseKG/WiseKG-Java/tree/main/WiseKG.Client) [Server](https://github.com/WiseKG/WiseKG-Java/tree/main/WiseKG.Server)     
+
+**Table: Query Features Chosen in This Work**
+
+| Serial No. | Query Features                                    | Associated Queries       |
+|------------|--------------------------------------------------|--------------------------|
+| 1          | No. of Projection Variables (PV)                | Query 1                  |
+| 2          | No. of Join Vertices (JV)                       | Query 2                  |
+| 3          | No. of Triple Patterns (TP)                     | Query 3                  |
+| 4          | Result Set Size (RS)                            | Query 4                  |
+|
