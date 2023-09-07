@@ -13,7 +13,7 @@ To address the recent challenge of online availability issues faced by public SP
 | 5          | Hybrid Shipping for SPARQL Querying on the Web [Smart-KG](https://publikationen.bibliothek.kit.edu/1000122092)     | [Client](https://git.ai.wu.ac.at/beno/smartkg/-/tree/master/smartkg-client?ref_type=heads) [Server](https://git.ai.wu.ac.at/beno/smartkg/-/tree/master/smartkg-server?ref_type=heads)               |
 | 6          | Balanced Access to Web Knowledge Graphs [Wise-KG](https://dl.acm.org/doi/10.1145/3442381.3449911) | [Client](https://github.com/WiseKG/WiseKG-Java/tree/main/WiseKG.Client) [Server](https://github.com/WiseKG/WiseKG-Java/tree/main/WiseKG.Server)     
 
-**Table 2: Query Features Chosen in This Work**
+**Table 2: Query Features, which we selected for this work**
 
 | Serial No. | Query Features                                    | Associated Queries       |
 |------------|--------------------------------------------------|--------------------------|
