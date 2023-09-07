@@ -34,7 +34,7 @@ To address the recent challenge of online availability issues faced by public SP
 ## Results and Discussion
 
 - **Results Link:** Overall results are available in this [FOLDER](https://drive.google.com/drive/folders/1BFQnvyYHn8Du1vuMqGRioIexzVSL81Gr?usp=sharing).
-- **Data Sheets:** Within the folder, there are three Excel sheets (xls sheets) that contain runtime values and Spearman's rank correlation coefficients for both datasets. These sheets likely provide detailed data on the performance of your experiment.
+- **Data Sheets:** Within the folder, there are many files, here;  **spearkman Corr** file contains Correlation Values, **10m-TP-sage** file, here the naming convention means that, ___with 10 Million Dataset, the runtime values obtained from SaGe interface___, so the same convension for all the files.
 
 - **SPARQL Interfaces Scripts:** You mentioned that all six SPARQL interfaces have scripts that were used to obtain the results. These scripts likely describe the procedures and queries used to gather data from the SPARQL interfaces.
 
