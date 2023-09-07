@@ -30,8 +30,7 @@ To address the recent challenge of online availability issues faced by public SP
 | 2            | WatDiv-100-Million   | 108,997,714  | [100-million](https://files.dice-research.org/archive/intelligent-SPARQL-interface/watdiv.100M.tar.bz2)  |
 
 **RESULTS AND DISCUSSION**
-- **Results Link:** You've shared a link to the compiled results on Google Drive. This link likely leads to a folder containing files with the results of your study.
-
+- **Results Link:** Overall results are available in this [FOLDER](https://drive.google.com/drive/folders/1BFQnvyYHn8Du1vuMqGRioIexzVSL81Gr?usp=sharing).
 - **Data Sheets:** Within the folder, there are three Excel sheets (xls sheets) that contain runtime values and Spearman's rank correlation coefficients for both datasets. These sheets likely provide detailed data on the performance of your experiment.
 
 - **SPARQL Interfaces Scripts:** You mentioned that all six SPARQL interfaces have scripts that were used to obtain the results. These scripts likely describe the procedures and queries used to gather data from the SPARQL interfaces.
