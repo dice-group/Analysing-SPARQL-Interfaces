@@ -22,7 +22,7 @@ To address the recent challenge of online availability issues faced by public SP
 | 3          | No. of Triple Patterns (TP)                     | Query 3                  |
 | 4          | Result Set Size (RS)                            | Query 4                  |
 
-**Table 3: Details about the datasets structure.**
+**Table 3: Benchmark datasets, we used in our experiments**
 
 | Serial No.   | Benchmark/Dataset    | # Triples    | Download Link |
 |--------------|----------------------|--------------|------------|
