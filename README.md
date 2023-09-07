@@ -39,4 +39,4 @@ To address the recent challenge of online availability issues faced by public SP
 - **SPARQL Interfaces Scripts:** Scripts to run the Interfaces and obtain the results, can be found in project repo of all the interfaces, and we used the same scripts for running and obtaining the results. However, some of the sample scripts can be obtained from [here](https://github.com/dice-group/Analysing-SPARQL-Interfaces/tree/main/scripts).
 
 - **Spearman's Rank Correlation:** We used Spearman's rank correlation formula to analyze the data. We applied this formula to the average values of runtime for different query sets with varying *numbers of Projection Variables (1-PV to 10-PV)*. This allowed us to assess the correlation between the number of specific Query Feature and runtime across different interfaces.
-- These two links are outdated, [https://github.com/dice-group/Analysing-SPARQL-Interfaces/tree/main/plots] and 
+- These two links are outdated, [https://github.com/dice-group/Analysing-SPARQL-Interfaces/tree/main/plots] and [https://github.com/dice-group/Analysing-SPARQL-Interfaces/tree/main/results] . I will update them in a day.
