@@ -36,6 +36,6 @@ To address the recent challenge of online availability issues faced by public SP
 - **Results Link:** Overall results are available in this [FOLDER](https://drive.google.com/drive/folders/1BFQnvyYHn8Du1vuMqGRioIexzVSL81Gr?usp=sharing).
 - **Data Sheets:** Within the folder, there are many files, here;  *spearkman Corr* file contains Correlation Values, *10m-TP-sage* file, here the naming convention means that, _with 10 Million Dataset, the runtime values obtained from SaGe interface_, so the same convension for all the files.
 
-- **SPARQL Interfaces Scripts:** Scripts to run the Interfaces and obtain the results, can be found in project repo of all the interfaces, and we used the same scripts for running and obtaining the results. However, some of the sample scripts can be obtained from [here](ww).
+- **SPARQL Interfaces Scripts:** Scripts to run the Interfaces and obtain the results, can be found in project repo of all the interfaces, and we used the same scripts for running and obtaining the results. However, some of the sample scripts can be obtained from [here](https://github.com/dice-group/Analysing-SPARQL-Interfaces/tree/main/scripts).
 
 - **Spearman's Rank Correlation:** We used Spearman's rank correlation formula to analyze the data. We applied this formula to the average values of runtime for different query sets with varying *numbers of Projection Variables (1-PV to 10-PV)*. This allowed us to assess the correlation between the number of specific Query Feature and runtime across different interfaces.
