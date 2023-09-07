@@ -24,8 +24,8 @@ To address the recent challenge of online availability issues faced by public SP
 
 **Details about the datasets structure.**
 
-| Dataset Type | Benchmark/Dataset   | # Triples    | # Subjects | # Predicates | # Objects   |
-|--------------|----------------------|--------------|------------|--------------|-------------|
-| Synthetic    | WatDiv-10-Million    | 10,916,457   | 521,585    | 86           | 1,005,832   |
-|              | WatDiv-100-Million   | 108,997,714  | 5,212,385  | 86           | 9,753,266   |
+| Serial No.   | Benchmark/Dataset    | # Triples    | Download Link |
+|--------------|----------------------|--------------|------------|
+| 1            | WatDiv-10-Million    | 10,916,457   | [10-million](https://files.dice-research.org/archive/intelligent-SPARQL-interface/watdiv.10M.tar.bz2)    |
+| 2            | WatDiv-100-Million   | 108,997,714  | [100-million](https://files.dice-research.org/archive/intelligent-SPARQL-interface/watdiv.100M.tar.bz2)  |
 
