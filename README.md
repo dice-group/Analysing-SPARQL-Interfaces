@@ -6,7 +6,7 @@ To address the recent challenge of online availability issues faced by public SP
 **Table 1: The table shows details of SPARQL Querying Interfaces, we evaluated in this work**
 | Serial No. | Interface                                            | Download                                                |
 |------------|-------------------------------------------------|--------------------------------------------------------------|                      
-| 1          | Triple Pattern Fragments [TPF](https://linkeddatafragments.org/specification/triple-pattern-fragments/)  |                            |
+| 1          | Triple Pattern Fragments [TPF](https://linkeddatafragments.org/specification/triple-pattern-fragments/)  | [Client](https://github.com/comunica/comunica) [Server](https://github.com/LinkedDataFragments/Server.js)                            |
 | 2          | Bindings-restricted Triple Pattern Fragments (brTPF) | [Client](https://github.com/hartig/Client.js) [Server](https://github.com/LiUSemWeb/Server.Java) |
 | 3          | Web Preemption for Public SPARQL Query Services [SaGe](https://arxiv.org/abs/1902.04790) |
 | 4          | Star Pattern Fragments [SPF](https://arxiv.org/abs/2002.09172)         |                           |
