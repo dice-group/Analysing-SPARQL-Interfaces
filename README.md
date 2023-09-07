@@ -29,5 +29,12 @@ To address the recent challenge of online availability issues faced by public SP
 | 1            | WatDiv-10-Million    | 10,916,457   | [10-million](https://files.dice-research.org/archive/intelligent-SPARQL-interface/watdiv.10M.tar.bz2)    |
 | 2            | WatDiv-100-Million   | 108,997,714  | [100-million](https://files.dice-research.org/archive/intelligent-SPARQL-interface/watdiv.100M.tar.bz2)  |
 
-****Results:***
-Compiled results can been seen through this link - [Results](https://drive.google.com/drive/folders/1BFQnvyYHn8Du1vuMqGRioIexzVSL81Gr?usp=sharing)
+- **Results Link:** You've shared a link to the compiled results on Google Drive. This link likely leads to a folder containing files with the results of your study.
+
+- **Data Sheets:** Within the folder, there are three Excel sheets (xls sheets) that contain runtime values and Spearman's rank correlation coefficients for both datasets. These sheets likely provide detailed data on the performance of your experiment.
+
+- **SPARQL Interfaces Scripts:** You mentioned that all six SPARQL interfaces have scripts that were used to obtain the results. These scripts likely describe the procedures and queries used to gather data from the SPARQL interfaces.
+
+- **Spearman's Rank Correlation:** You used Spearman's rank correlation formula to analyze the data. Specifically, you applied this formula to the average values of runtime for different query sets with varying numbers of Projection Variables (1-PV to 10-PV). This allowed you to assess the correlation between the number of Projection Variables and runtime across different features and interfaces.
+
+      
