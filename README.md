@@ -29,5 +29,5 @@ To address the recent challenge of online availability issues faced by public SP
 | 1            | WatDiv-10-Million    | 10,916,457   | [10-million](https://files.dice-research.org/archive/intelligent-SPARQL-interface/watdiv.10M.tar.bz2)    |
 | 2            | WatDiv-100-Million   | 108,997,714  | [100-million](https://files.dice-research.org/archive/intelligent-SPARQL-interface/watdiv.100M.tar.bz2)  |
 
-***Results:
+**Results:
 Compiled results can been seen through this link - [Results](https://drive.google.com/drive/folders/1BFQnvyYHn8Du1vuMqGRioIexzVSL81Gr?usp=sharing)
