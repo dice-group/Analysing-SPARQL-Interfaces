@@ -6,8 +6,7 @@ To address the recent challenge of online availability issues faced by public SP
 | Serial No. | Interface                                            | Download                                                |
 |------------|-------------------------------------------------|--------------------------------------------------------------|                      
 | 1          | Triple Pattern Fragments [TPF](https://linkeddatafragments.org/specification/triple-pattern-fragments/)  |                            |
-| 2          | Bindings-restricted Triple Pattern Fragments [brTPF](https://arxiv.org/abs/1608.08148) | [client][(https://github.com/hartig/Client.js)]
-                                                                                                                                [Server][(https://github.com/LiUSemWeb/Server.Java)]
+| 2          | Bindings-restricted Triple Pattern Fragments [brTPF](https://arxiv.org/abs/1608.08148) | [Client](https://github.com/hartig/Client.js)<br>[Server](https://github.com/LiUSemWeb/Server.Java) |
 | 3          | Web Preemption for Public SPARQL Query Services [SaGe](https://arxiv.org/abs/1902.04790) |
 | 4          | Star Pattern Fragments [SPF](https://arxiv.org/abs/2002.09172)         |                           |
 | 5          | Hybrid Shipping for SPARQL Querying on the Web [Smart-KG](https://publikationen.bibliothek.kit.edu/1000122092)     |                |
