@@ -1,4 +1,4 @@
-# **_How Query Features Correlate with Runtime? An Evaluation of SPARQL Querying Interfaces_**
+# **_How do Query Features Correlate with Runtime? An Evaluation of SPARQL Querying Interfaces_**
 
 ## Abstract
 
