@@ -12,7 +12,7 @@ To address the recent challenge of online availability issues faced by public SP
 | 2          | Bindings-restricted Triple Pattern Fragments [brTPF](https://arxiv.org/abs/1608.08148) | [Client](https://github.com/hartig/Client.js) [Server](https://github.com/LiUSemWeb/Server.Java) |
 | 3          | Web Preemption for Public SPARQL Query Services [SaGe](https://sage.univ-nantes.fr/) | [Client](https://github.com/sage-org/sage-jena) [Server](https://github.com/sage-org/sage-engine)
 | 4          | Star Pattern Fragments [SPF](https://arxiv.org/abs/2002.09172)         | [Client](https://github.com/Chraebe/StarPatternFragments/tree/master/SPF.Client) [Server](https://github.com/Chraebe/StarPatternFragments/tree/master/SPF.Server)                         |
-| 5          | Hybrid Shipping for SPARQL Querying on the Web [Smart-KG](https://publikationen.bibliothek.kit.edu/1000122092)     | [Client](https://git.ai.wu.ac.at/beno/smartkg/-/tree/master/smartkg-client?ref_type=heads) [Server](https://git.ai.wu.ac.at/beno/smartkg/-/tree/master/smartkg-server?ref_type=heads)               |
+| 5          | Hybrid Shipping for SPARQL Querying on the Web [Smart-KG](https://publikationen.bibliothek.kit.edu/1000122092)     | [Client](https://git.ai.wu.ac.at/beno/smartkg) [Server](https://git.ai.wu.ac.at/beno/smartkg/-/tree/master/smartkg-server?ref_type=heads)               |
 | 6          | Balanced Access to Web Knowledge Graphs [Wise-KG](https://dl.acm.org/doi/10.1145/3442381.3449911) | [Client](https://github.com/WiseKG/WiseKG-Java/tree/main/WiseKG.Client) [Server](https://github.com/WiseKG/WiseKG-Java/tree/main/WiseKG.Server)     
 
 ## Table 2: Query Features
