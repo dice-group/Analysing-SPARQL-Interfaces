@@ -16,13 +16,32 @@ To address the recent challenge of online availability issues faced by public SP
 | 6          | Balanced Access to Web Knowledge Graphs [Wise-KG](https://dl.acm.org/doi/10.1145/3442381.3449911) | [Client](https://github.com/WiseKG/WiseKG-Java/tree/main/WiseKG.Client) [Server](https://github.com/WiseKG/WiseKG-Java/tree/main/WiseKG.Server)     
 
 ## Table 2: Query Features
+<table>
+  <tr>
+    <th>Serial No.</th>
+    <th>Query Features</th>
+    <th>Associated Queries</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>No. of Projection Variables (PV)   </td>
+    <td rowspan="4">Queries folder contains all the queries. Sub folders contain the features specific queries.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>No. of Join Vertices (JV)   </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>No. of Triple Patterns (TP)   </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Result Set Size (RS)   </td>
+  </tr>
+</table>
 
-| Serial No. | Query Features                                    | Associated Queries       |
-|------------|--------------------------------------------------|--------------------------|
-| 1          | No. of Projection Variables (PV)                 | Queries folder contains all the queries. Sub folders contain the features specific queries.
-| 2          | No. of Join Vertices (JV)                        |                   
-| 3          | No. of Triple Patterns (TP)                      |                 
-| 4          | Result Set Size (RS)                             |               |
+                                       
 
 ## Table 3: Benchmark Datasets
 
