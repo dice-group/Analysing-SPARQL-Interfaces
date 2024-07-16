@@ -19,7 +19,7 @@ To address the recent challenge of online availability issues faced by public SP
 
 | Serial No. | Query Features                                    | Associated Queries       |
 |------------|--------------------------------------------------|--------------------------|
-| 1          | No. of Projection Variables (PV)                 | [PV_queries](https://github.com/dice-group/Analysing-SPARQL-Interfaces/tree/main/queries/watDiv-queries/watdiv-queries-ProjVariablesCount/)                   |
+| 1          | No. of Projection Variables (PV)                 | [PV_queries](https://github.com/dice-group/Analysing-SPARQL-Interfaces/tree/main/queries/watDiv-queries/watdiv-queries-ProjVariablesCount)                   |
 | 2          | No. of Join Vertices (JV)                        | [JV_queries](https://github.com/dice-group/Analysing-SPARQL-Interfaces/tree/main/queries/watDiv-queries/watdiv-queries-joinVertexCount)                  |
 | 3          | No. of Triple Patterns (TP)                      | [TP_queries](https://github.com/dice-group/Analysing-SPARQL-Interfaces/tree/main/queries/watDiv-queries/watdiv-queries-TPs)                 |
 | 4          | Result Set Size (RS)                             | [RS_queries](https://github.com/dice-group/Analysing-SPARQL-Interfaces/tree/main/queries/watDiv-queries/watdiv-queries-resultSize)              |
