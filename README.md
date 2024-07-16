@@ -19,10 +19,10 @@ To address the recent challenge of online availability issues faced by public SP
 
 | Serial No. | Query Features                                    | Associated Queries       |
 |------------|--------------------------------------------------|--------------------------|
-| 1          | No. of Projection Variables (PV)                 | Queries folder contains all the queries. Sub folders contain the features specific queries.                    |
+| 1          | No. of Projection Variables (PV)                 | Queries folder contains all the queries. Sub folders contain the features specific queries.
 | 2          | No. of Join Vertices (JV)                        |                   
 | 3          | No. of Triple Patterns (TP)                      |                 
-| 4          | Result Set Size (RS)                             |               
+| 4          | Result Set Size (RS)                             |               |
 
 ## Table 3: Benchmark Datasets
 
