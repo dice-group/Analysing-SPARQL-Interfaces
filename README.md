@@ -26,7 +26,7 @@ To address the recent challenge of online availability issues faced by public SP
     <td>1</td>
     <td>No. of Projection Variables (PV)   </td>
     <td rowspan="4">Queries folder contains all the queries. Sub folders contain the features specific queries. `OR` 
-      The queries can also be viewed through this [LINK](https://drive.google.com/drive/folders/1HkzWdoji2-vXBhIj_kpnyeU3ok42rksA?usp=sharing) </td>
+      The queries can also be viewed through this LINK (https://drive.google.com/drive/folders/1HkzWdoji2-vXBhIj_kpnyeU3ok42rksA?usp=sharing) </td>
   </tr>
   <tr>
     <td>2</td>
